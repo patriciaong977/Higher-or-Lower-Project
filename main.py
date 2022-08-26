@@ -21,11 +21,11 @@ def get_random_ig():
 
 def format_data(ig_data):
     """ Returns the account data into printable format."""
-    name = ig_data["name"]  # Access the name key.
+    ig_name = ig_data["name"]  # Access the name key.
     description = ig_data["description"]  # Access the description key.
     country = ig_data["country"]  # Access the country key.
 
-    return f"{name}, a {description}, from {country}" # Return the formatted string.
+    return f"{ig_name}, a {description}, from {country}" # Return the formatted string.
 def check_answer(usr_guess, acc_1_followers, acc_2_followers):
     """ Checks the user's guess. """
     if acc_1_followers > acc_2_followers:
