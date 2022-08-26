@@ -9,3 +9,6 @@
   - The game will compare two random accounts and ask the user to guess who has more followers.
   - The game will tell the user if they are right or wrong and keep track of the score.
   - Once the user guesses wrong, the game will end and show the user their final score.
+
+
+Note: The information on the accounts are not updated. It is just for the purpose of the game.
