@@ -14,3 +14,7 @@ vs = """
  ██  ██       ██
   ████   ███████
 """
+
+# Checking if the variables are printing nicely. 
+# print(logo)
+# print(vs)
