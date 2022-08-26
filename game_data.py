@@ -1,3 +1,6 @@
+# Data is not updated in real time, so it is not a live feed.
+# Note that the data is just for the game.
+
 data = [
     {
         'name': 'Instagram',
